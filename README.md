@@ -13,3 +13,5 @@ MC_SSAO by Constantine 'MadCake' Rudenko license https://creativecommons.org/lic
 MC_Tonemap by Constantine 'MadCake' Rudenko https://creativecommons.org/licenses/by/4.0/ (Has been modified)
 
 MC_TonemapHDR by Constantine 'MadCake' Rudenko https://creativecommons.org/licenses/by/4.0/ (Has been modified)
+
+PerfectPerspective by Fubaxiusz http://creativecommons.org/licenses/by-sa/3.0/ (Has been modified)
